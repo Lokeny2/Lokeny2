@@ -31,7 +31,7 @@ I'm an aspiring **Fullstack Developer** currently deepening my JavaScript skills
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌤️ [Weather Advisory App — Weather Consultant](https://github.com/lokenymoses2)
 > A responsive web application that provides **personalized weather advice** based on real-time data from the OpenWeather API. Built to help users make informed daily decisions based on their local conditions.
@@ -54,7 +54,7 @@ I'm an aspiring **Fullstack Developer** currently deepening my JavaScript skills
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
