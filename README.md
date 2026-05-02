@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Moses Lokeny Ekutan 👋🌍
+# BONJOUR, I'm Moses Lokeny Ekutan 👋🌍
 
 ### Aspiring Fullstack Developer · Web Enthusiast · DELF B2 Certified
 
