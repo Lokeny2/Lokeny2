@@ -1,6 +1,6 @@
 <div align="center">
 
-# BONJOUR, I'm Moses Lokeny Ekutan 👋🌍
+# BONJOUR, I'm Moses Lokeny Ekutan 
 
 ### Aspiring Fullstack Developer · Web Enthusiast · DELF B2 Certified
 
@@ -10,18 +10,18 @@
 
 ---
 
-## 🙋‍♂️ About Me
+##  About Me
 
 I'm an aspiring **Fullstack Developer** currently deepening my JavaScript skills and building real-world web applications. Beyond code, I hold a **DELF B2 certification in French**, and I believe that cross-cultural understanding, combined with technological mastery, can make our planet a haven of peace and joy for every living being in it.
 
-- 🌱 Currently learning **JavaScript** (70% and climbing!)
-- 🎯 Goal: Become a Fullstack Developer who builds meaningful, impactful products
-- 🌐 Multilingual communicator with a global perspective
-- 💡 Passionate about using tech to solve real human problems
+-  Currently learning **JavaScript** (70% and climbing!)
+-  Goal: Become a Fullstack Developer who builds meaningful, impactful products
+-  Multilingual communicator with a global perspective
+-  Passionate about using tech to solve real human problems
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
